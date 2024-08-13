@@ -1,0 +1,13 @@
+{
+    "version": "0.0.1",
+    "description": "",
+    "homepage": "https://github.com/lewohy/kren-select",
+    "license": "",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/lewohy/kren-select/releases/download/v0.0.1/kren-select.exe",
+            "hash": "B96CA8F8038DCCAFD1AA433DFB10097968CAC95B61A995BE99C50E7DD1DDAD81"
+        }
+    },
+    "bin": "kren-select.exe"
+}

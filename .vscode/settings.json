@@ -21,6 +21,8 @@
         "**/.hg": true,
         "**/CVS": true,
         "**/.DS_Store": true,
+        "**/Thumbs.db": true,
         "**/tmp": true
-    }
+    },
+    "hide-files.files": []
 }
