@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/lewohy/kren-select/releases/download/v0.0.1/kren-select.exe",
-            "hash": "4970B44843C8AB067C9C53DFF6A3B44CD07D6CD06FDB3BCF59F2161997343972"
+            "hash": "AD1BB015CB8AB8631F56D680374EDF9F148D74FFE79537B4CCEA668C339FE92F"
         }
     },
     "bin": "kren-select.exe"
